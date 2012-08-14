@@ -32,4 +32,4 @@ Where `#nav` is the id or class of the `<ul>` element containg your naviation.
 
 ## Quirks
 
-* All `<li>` elements should be in the exact same order as their corresponding divs.
+All `<li>` elements should be in the exact same order as their corresponding divs.
