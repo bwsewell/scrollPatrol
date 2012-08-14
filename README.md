@@ -1,4 +1,4 @@
 scrollSpyder
 ============
 
-A replacement for the twitter [http://twitter.github.com/bootstrap/javascript.html#scrollspy](scrollSpy) js plugin
+A replacement for the twitter [scrollSpy](http://twitter.github.com/bootstrap/javascript.html#scrollspy) js plugin
