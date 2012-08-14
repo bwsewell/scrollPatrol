@@ -1,15 +1,15 @@
-// jquery.scrollSpyder.js
+// jquery.scrollPatrol.js
 // copyright Brian Sewell
-// https://github.com/bwsewell/scrollSpyder
+// https://github.com/bwsewell/scrollPatrol
 //
 // v1.0.0
 // Aug 14, 2012 12:30
 
 (function( $ ){
-	$.fn.scrollSpyder = function(options) {
+	$.fn.scrollPatrol = function(options) {
 
-    var clicked = false;  // Whether or not the user has clicked on a link 
-    var nav = this;       // <ul> object containing scrollSpy links
+    var clicked = false;  // Whether or not the user has clicked on a link
+    var nav = this;       // <ul> object containing scrollPatrol links
 
     var defaults = {
       offset: 10

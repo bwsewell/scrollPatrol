@@ -1,17 +1,17 @@
-# scrollSpyder
+# scrollPatrol
 
 A replacement for the twitter [scrollSpy](http://twitter.github.com/bootstrap/javascript.html#scrollspy) js plugin
 
 ## Usage
 
 ```javascript
-$("#nav").scrollSpyder();
+$("#nav").scrollPatrol();
 ```
 
 Or you can specify the amount of padding you want on the top of your dom element you are scrolling to:
 
 ```javascript
-$("#nav").scrollSpyder({
+$("#nav").scrollPatrol({
   offset: 10
 });
 ```
